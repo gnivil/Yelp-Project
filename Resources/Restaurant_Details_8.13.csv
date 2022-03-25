@@ -1,0 +1,218 @@
+Index,Name,Latitude,Longitude,Categories,Total Reviews,Rating,Price,Services
+0,bb.q Chicken - Vernon Hills,42.24006,-87.9411,chickenshop,20,4.5,?,?
+1,Bonta,42.1991299,-87.93302,cafes,499,4.5,$$,"['delivery', 'pickup']"
+2,Ramen House Shinchan,42.238635,-87.941136,ramen,73,4.0,$$,"['delivery', 'pickup']"
+3,Lazy Dog Restaurant & Bar,42.24452,-87.94513,burgers,727,4.0,$$,"['pickup', 'delivery']"
+4,Zocalo Mexican Bar and Grill,42.2300346,-87.9769051,mexican,213,4.5,$$,"['delivery', 'pickup']"
+5,Bella Famiglia,42.222199,-87.970158,pizza,12,4.0,?,?
+6,Invicto,42.2420949757054,-87.9443318891231,tacos,152,4.0,?,?
+7,Teriyaki Madness,42.24198687746965,-87.94415433395226,asianfusion,38,3.5,?,?
+8,City Works - Vernon Hills,42.243903,-87.944425,tradamerican,101,4.0,$$,['delivery']
+9,Kuma's sushi bowl,42.2399892351077,-87.9416033261764,sushi,181,4.5,$$,"['delivery', 'pickup']"
+10,Nikkos Grecian Grill,42.24019,-87.99884,greek,151,4.5,$,"['delivery', 'pickup']"
+11,Blufish Sushi Robata,42.238507,-87.94773,japanese,376,4.5,$$,"['delivery', 'pickup']"
+12,Van's Sushi Cafe,42.201184,-87.933535,sushi,87,4.5,?,?
+13,Hwang Dae Gham,42.2401349,-87.99665,bbq,100,4.5,$$,"['pickup', 'delivery']"
+14,Tokyo Bowl,42.2405680996437,-87.9616928100586,japanese,95,4.0,$$,['delivery']
+15,Lincolnshire's Food Truck Fridays,42.1915435791016,-87.9317398071289,foodtrucks,5,4.0,$$,[]
+16,Shake Shack,42.241029,-87.941729,hotdogs,145,2.5,?,?
+17,Blue House Korean BBQ,42.2411,-87.979129,korean,192,4.0,$$,['delivery']
+18,Scotty's On 21,42.238859,-87.947608,newamerican,50,4.0,?,?
+19,Portillo's Hot Dogs,42.2398607,-87.9589182,hotdog,407,3.5,$,['delivery']
+20,Milkcow Cafe,42.2416541320939,-87.958655,icecream,85,4.5,$$,['delivery']
+21,Calzone & Macaroni,42.2415346021213,-87.9578080565549,italian,217,4.0,$,['delivery']
+22,Buttermilk - Vernon Hills,42.2433244,-87.9444856,breakfast_brunch,138,4.0,$$,"['delivery', 'pickup']"
+23,Woodfire Tavern,42.208478,-87.992036,bbq,59,3.5,?,?
+24,Lucky Burger And Grill,42.2423,-87.97839,burgers,88,4.5,$$,"['delivery', 'pickup']"
+25,Pita Inn,42.24008,-87.99042,mediterranean,223,4.0,$,"['pickup', 'delivery']"
+26,Burrito Express,42.241916,-87.959078,mexican,74,4.0,$$,['delivery']
+27,Kuma's Corner - Vernon Hills,42.2430702813741,-87.9444503301636,burgers,231,3.5,$$,"['pickup', 'delivery']"
+28,City Barbeque,42.242611,-87.944045,bbq,135,3.5,$$,"['pickup', 'delivery']"
+29,Next Door American Eatery,42.24264537130247,-87.94393731104462,newamerican,119,3.5,$$,['delivery']
+30,Momo sushi,42.25337483,-88.00163317,sushi,31,4.5,?,?
+31,Slyce Coal Fired Pizza,42.2431073,-87.9437017,pizza,19,3.5,?,?
+32,Angela's Caribbean Cuisine,42.242959,-87.950306,caribbean,8,5.0,?,?
+33,Chick-fil-A,42.23878031819957,-87.94370562944205,hotdogs,130,3.5,$,['delivery']
+34,Garden Berry Cafe,42.23319,-87.98712,breakfast_brunch,187,4.0,$$,"['delivery', 'pickup']"
+35,MOD Pizza,42.238385,-87.943494,pizza,129,4.0,$,"['delivery', 'pickup']"
+36,Sushi Thai Restaurant,42.2400118318507,-87.953833937645,japanese,182,3.5,$$,"['pickup', 'delivery']"
+37,Roti,42.2414108732175,-87.9448227774808,mediterranean,37,3.0,?,?
+38,Taco Bell,42.239388,-87.993922,hotdogs,18,3.0,$,['delivery']
+39,Salsa Street Mexican Restaurant & Cantina,42.2030601569,-87.9354790628,mexican,28,3.5,$$,"['delivery', 'pickup']"
+40,Jameson's Charhouse Vernon Hills,42.239839,-87.960942,steak,49,3.5,?,?
+41,Buffalo Wild Wings,42.2399621884789,-87.973392,tradamerican,185,2.0,$$,['delivery']
+42,Starfish Sushi,42.2036299,-87.93211,japanese,250,4.0,$$,"['pickup', 'delivery']"
+43,Culver's,42.2000541687012,-87.9323883056641,hotdogs,23,4.0,$,[]
+44,Real Urban Barbecue,42.203618,-87.933646,bbq,428,3.5,$$,"['delivery', 'pickup']"
+45,McAlister's Deli,42.240002642016236,-87.96792826823726,salad,72,3.5,$$,"['pickup', 'delivery']"
+46,Fried Egg Cafe,42.2033591867987,-87.9337753728032,breakfast_brunch,145,4.0,$$,"['delivery', 'pickup']"
+47,Osaka Sushi,42.2417775,-87.9776827,sushi,158,4.0,$$,"['delivery', 'pickup']"
+48,Wright's Brew & Bistro,42.196041,-87.924377,burgers,33,3.0,$$,"['delivery', 'pickup']"
+49,Fairgrounds Coffee and Tea,42.24278,-87.94491,coffee,45,4.0,?,?
+50,Potbelly Sandwich Shop,42.2397509215836,-87.947678,sandwiches,58,3.5,$,"['delivery', 'pickup']"
+51,Tai Chi Green Tea,42.219897,-87.96074,coffee,1,5.0,?,?
+52,Café Zupas,42.2425082,-87.944775,sandwiches,50,3.5,?,?
+53,Mambo Italiano,42.252286,-87.981057,italian,330,4.0,$$,"['pickup', 'delivery']"
+54,Prairie House Tavern,42.198109,-87.956441,bars,115,3.5,$$,"['delivery', 'pickup']"
+55,McAlister's Deli,42.240002642016236,-87.96792826823726,salad,72,3.5,$$,"['delivery', 'pickup']"
+56,Carnitas Don Chuy,42.253149061124,-88.0015904953834,mexican,50,4.0,$,['delivery']
+57,Three Embers Restaurant,42.1958494773623,-87.924481222229,newamerican,38,4.0,?,?
+58,Prairie City Bakery,42.2284507751465,-87.9561996459961,bakeries,2,3.0,?,?
+59,Yu's Mandarin,42.23995,-87.96315,chinese,183,2.5,$$,"['delivery', 'pickup']"
+60,The Claim Company of Vernon Hills,42.2431346321155,-87.9517510498262,tradamerican,128,3.5,$$,"['delivery', 'pickup']"
+61,Ararat,42.24138838260695,-87.99799895475286,mediterranean,71,4.0,$$,['pickup']
+62,Royal Cantonese Restaurant,42.235273,-87.992684,chinese,133,3.5,$$,"['delivery', 'pickup']"
+63,Desi Needs,42.222198,-87.970591,herbsandspices,4,3.0,?,?
+64,Green Basil,42.239116070097,-87.9415825433777,thai,248,3.5,$$,"['delivery', 'pickup']"
+65,Half Day Brewing Company,42.202418,-87.930964,pubs,291,3.0,$$,"['delivery', 'pickup']"
+66,Sushi Kushi San3,42.240036,-87.972296,sushi,238,3.5,$$,"['pickup', 'delivery']"
+67,Tous Les Jours,42.2412206,-87.951883,bakeries,42,4.5,$$,[]
+68,Bende,42.215827,-87.94284,meats,16,4.5,$$,[]
+69,Nirvana Wine & Grillerie,42.238814,-87.94113,beer_and_wine,221,4.0,$$$,"['delivery', 'pickup']"
+70,Uncle Julio's,42.2408446495948,-87.9458590535429,mexican,453,3.0,$$,"['delivery', 'pickup']"
+71,Walker Bros Original Pancake House,42.194362,-87.931605,breakfast_brunch,305,4.0,$$,['delivery']
+72,Savage Burrito,42.229225158691406,-87.96517944335938,fooddeliveryservices,8,3.0,?,?
+73,J & L Food Mart,42.2203903198242,-87.966911315918,grocery,1,1.0,?,?
+74,L.I.T Nation Nutrition,42.23012,-87.97639,juicebars,2,5.0,?,?
+75,Dover Straits,42.235016,-87.990179,seafood,214,3.5,$$,"['delivery', 'pickup']"
+76,Cajun Cafe,42.2443885444,-87.9482017155,cafes,12,3.5,$,[]
+77,Russian Food Delivery Chicago,42.23152,-87.96906,fooddeliveryservices,2,3.0,$$$,[]
+78,Asian Mart,42.2406224,-87.9797058,grocery,10,3.0,$$,[]
+79,Lauretta's Italian Bake Shop & Cafe,42.2536231577396,-88.0004500597715,bakeries,166,4.5,$$,['delivery']
+80,Maciano's Pizza & Pastaria,42.2403486855427,-87.9717334965729,italian,144,3.5,$$,"['delivery', 'pickup']"
+81,Whole Foods Market,42.241203,-87.943845,grocery,46,3.0,?,?
+82,Culver's,42.240184,-87.987737,burgers,25,3.5,$,['delivery']
+83,Hansa Coffee Roasters,42.241897,-87.950246,coffee,16,4.5,?,?
+84,Empire Buffet Sushi & Hibachi,42.2399431,-87.9963518,chinese,80,2.5,$$,['delivery']
+85,Madras Kafe Indian Restaurant,42.236601,-87.943501,indpak,169,3.5,$$,"['delivery', 'pickup']"
+86,Wendy's,42.1968662296674,-87.966049145722,burgers,21,3.0,$,['delivery']
+87,Halsted Street Deli,42.203625,-87.934257,sandwiches,47,3.5,$,"['pickup', 'delivery']"
+88,Egg Harbor Café,42.20229,-87.92953,breakfast_brunch,187,4.0,$$,['delivery']
+89,Noodles & Company,42.2385662,-87.9448196,noodles,43,3.5,$,[]
+90,Popeyes Louisiana Kitchen,42.240191,-87.986953,chicken_wings,47,2.5,$,['delivery']
+91,QDOBA Mexican Eats,42.2409718,-87.9465174,mexican,39,3.5,$,['delivery']
+92,Yen Yen Restaurant,42.1967582,-87.9664973,chinese,121,3.0,$$,"['delivery', 'pickup']"
+93,Wild Goose Cafe,42.1961507,-87.9661518,restaurants,4,3.5,$,[]
+94,Secret Sauce,42.229225158691406,-87.96517944335938,southern,1,1.0,?,?
+95,Frutilandia,42.24299,-88.007734,markets,5,4.5,$,['delivery']
+96,Tsukasa of Tokyo,42.236277,-87.941708,japanese,478,3.5,$$,"['pickup', 'delivery']"
+97,Panda Express,42.24086322685761,-87.95728832150571,chinese,3,3.0,?,?
+98,McDonald's,42.1982966439408,-87.9327772557735,hotdogs,33,2.0,$,['delivery']
+99,Chili's,42.2399,-87.97395,bars,64,3.0,$$,[]
+100,Bo-Bo's Gyros,42.2415985,-87.9559692,greek,76,3.5,$,"['delivery', 'pickup']"
+101,On The Border Mexican Grill & Cantina,42.2363203,-87.9448458,mexican,145,3.0,$$,"['pickup', 'delivery']"
+102,Spice Bazaar Grocers,42.239947504274,-87.9691652653898,grocery,10,4.0,$$,[]
+103,Jolene's Wings + Beer,42.24452,-87.94513,chicken_wings,3,1.0,?,?
+104,Chef Yan Can,42.24531,-87.94977,cantonese,62,3.0,?,?
+105,Tasty Thai Restaurant,42.24172836043461,-87.95760749406776,thai,112,3.0,$,"['delivery', 'pickup']"
+106,Tutti Frutti Frozen Yogurt,42.2358169555664,-87.9630813598633,icecream,6,4.0,$,['delivery']
+107,Hitz Pizza and Sports Bar,42.252953,-87.980537,pizza,109,3.5,$$,"['pickup', 'delivery']"
+108,Rosati's Pizza,42.2404635697603,-87.9621186107397,pizza,31,3.5,$,"['pickup', 'delivery']"
+109,Taco's El Norte,42.251752293401,-87.9980468756029,mexican,38,4.0,$,['delivery']
+110,Samaris Sweet Creations,42.242282,-87.994793,customcakes,8,5.0,?,?
+111,Maggiano's Little Italy,42.2419611852426,-87.9508296957518,italian,237,3.0,$$,"['pickup', 'delivery']"
+112,Greg's Frozen Custard,42.2425702321009,-87.9949235356294,icecream,145,4.5,$,['delivery']
+113,Five Guys,42.23699098974839,-87.94343201426759,burgers,78,3.0,$,['delivery']
+114,The Irish Mill,42.2483,-88.01609,pubs,61,3.5,$$,"['delivery', 'pickup']"
+115,Panera Bread,42.2407182837863,-87.9934957418838,soup,20,3.0,$$,"['delivery', 'pickup']"
+116,Windy City Deli Provisions,42.2367299,-87.9808976,meats,1,5.0,$,[]
+117,Golden Kitchen,42.2420488,-87.9777975,chinese,95,3.0,$,"['pickup', 'delivery']"
+118,Ellys Pancake House - Mundelein,42.2396845017522,-87.9948299272284,breakfast_brunch,143,3.5,$$,"['delivery', 'pickup']"
+119,Strawberry Field Pancakes and Cafe,42.19975,-87.933136,cafes,140,3.0,$$,"['pickup', 'delivery']"
+120,Olive Garden Italian Restaurant,42.239496869744,-87.9437769073427,italian,110,3.0,$$,[]
+121,Bill's Pizza & Pub,42.2543789677029,-88.0014216899872,pizza,301,3.5,$$,['delivery']
+122,Aroma Fine Indian Cuisine,42.241767,-87.95763,indpak,181,3.5,$$,"['pickup', 'delivery']"
+123,Gale Street Inn,42.249603,-88.001652,newamerican,105,3.5,$$,"['pickup', 'delivery']"
+124,shee goo,42.242596,-87.949901,icecream,4,4.0,?,?
+125,Chipotle Mexican Grill,42.2406629,-87.992807,mexican,7,3.5,?,?
+126,Manny's Mini Mart,42.2301151,-87.9769051,convenience,8,2.5,$$$$,[]
+127,Lake Charles Grill,42.254993,-87.9706023,tradamerican,2,4.5,?,?
+128,IHOP,42.23997,-87.94687,breakfast_brunch,29,3.5,$,"['pickup', 'delivery']"
+129,Holcomb Hollow,42.2594242,-87.9869409,bakeries,7,4.5,?,?
+130,McDonald's,42.239524,-87.945074,hotdogs,13,2.5,$,['delivery']
+131,Panera Bread,42.2342279,-87.9424538,sandwiches,80,3.0,$,"['delivery', 'pickup']"
+132,Dave & Buster's,42.242551,-87.94872,arcades,234,2.5,$$,[]
+133,Alef Sausage & Deli,42.241429,-87.998311,delis,18,3.5,$,['delivery']
+134,EZ Pantry,42.20220967,-87.93400067,grocery,3,1.0,?,?
+135,Tindahan Ng Bayan,42.25282,-88.00206,intlgrocery,3,4.0,?,?
+136,Chipotle Mexican Grill,42.2325358536042,-87.9421660441101,mexican,83,3.0,$,['delivery']
+137,Jimmy John's,42.2320997,-87.9419818,sandwiches,31,2.5,$,[]
+138,Dunkin',42.199163,-87.931972,donuts,34,1.5,$,['delivery']
+139,Panda Express,42.2435003331537,-87.9499343529448,chinese,8,3.0,?,?
+140,Wendy's,42.2407539074148,-87.9591374921608,burgers,20,2.5,$,['delivery']
+141,KFC,42.2391307661121,-87.9450051000173,hotdogs,59,1.5,$,"['pickup', 'delivery']"
+142,Rosy's Bakery,42.2543793,-88.0011139,bakeries,1,5.0,?,?
+143,The New Family Oriental Mart,42.2404622286558,-87.9618624597788,importedfood,1,2.0,?,?
+144,Homecooked Indian Vegetarian Food,42.24261,-87.95569,vegetarian,1,1.0,?,?
+145,Dairy Queen,42.2398986449061,-87.9689186811447,icecream,17,2.0,$,"['delivery', 'pickup']"
+146,Jamba,42.239769584344,-87.9479280068633,juicebars,24,3.0,$$,['delivery']
+147,Eddie Merlot's Lincolnshire,42.2036299,-87.93211,steak,198,3.5,$$$,['delivery']
+148,Corner Bakery,42.239832,-87.953851,breakfast_brunch,57,2.5,$,"['delivery', 'pickup']"
+149,Jersey Mike's Subs,42.2559671732246,-87.9489898681641,sandwiches,48,3.5,$,"['delivery', 'pickup']"
+150,Country Corner,42.2423462,-88.0039136,artsandcrafts,3,4.0,$$,"['delivery', 'pickup']"
+151,Double Tree Hotel,42.23772,-87.99542,tradamerican,16,3.0,$$$,[]
+152,Walmart Supercenter,42.2389129,-87.9536928,grocery,47,1.5,$,[]
+153,Nothing Bundt Cakes,42.240038,-87.941809,desserts,26,4.5,$$,['delivery']
+154,Long John Silver's,42.239315,-87.993584,hotdogs,8,2.0,$,[]
+155,McDonald's,42.2405381225154,-87.9949383678764,hotdogs,18,2.0,$,['delivery']
+156,Mariano's Fresh Market,42.1982541359306,-87.9679563867289,grocery,56,3.0,$$,[]
+157,Taco Bell,42.24367667,-87.949775,mexican,3,1.0,$,[]
+158,Trader Joe's,42.255041,-87.946718,grocery,63,4.0,$$,[]
+159,Domino's Pizza,42.2516443603452,-87.9959148561548,pizza,23,2.0,$,[]
+160,CVS Pharmacy,42.23899,-87.95697,drugstores,1,2.0,?,?
+161,Mundelein Polish Deli,42.241062,-87.979172,grocery,4,3.0,$$,[]
+162,New China Chef,42.254363,-88.0011053,chinese,24,3.0,$,"['delivery', 'pickup']"
+163,Walgreens,42.2398898470952,-87.9708024490537,drugstores,20,3.5,$$,[]
+164,Cold Stone Creamery,42.2398089552343,-87.9721029158296,icecream,22,2.5,$$,"['delivery', 'pickup']"
+165,Subway,42.242579,-87.9785781533903,sandwiches,6,1.5,$,"['delivery', 'pickup']"
+166,Papa John's Pizza,42.19841,-87.966229,pizza,18,1.5,$,"['pickup', 'delivery']"
+167,Bucky's Mobil,42.2409917817711,-87.955565005296,convenience,15,2.5,$,[]
+168,United Grocers,42.2395074,-87.9880051,importedfood,1,2.0,?,?
+169,Speedway,42.2399789776486,-87.9936497855277,servicestations,4,4.0,?,?
+170,Pizza Hut,42.25352491597712,-87.99974789534605,pizza,21,2.0,$,"['pickup', 'delivery']"
+171,ALDI,42.25901016058068,-87.950252,grocery,12,3.5,?,?
+172,Garden Fresh Market,42.2412153738483,-87.995848953811,grocery,67,3.0,$$,[]
+173,Las Palmas Mexican Restaurant,42.24157,-88.00602,mexican,112,3.5,$$,"['pickup', 'delivery']"
+174,Mariano's - Vernon Hills,42.2569895540494,-87.9509679994116,grocery,185,3.5,$$,[]
+175,Chill Bubble Tea,42.2430635,-87.9499412,bubbletea,23,3.5,$,['delivery']
+176,Little Caesar's Pizza,42.2543543,-88.0011009,pizza,19,2.5,$,[]
+177,Melt Gelato & Crepe Cafe,42.2429479,-87.9503694,desserts,37,3.5,$,"['delivery', 'pickup']"
+178,Baskin-Robbins,42.2384911,-87.9464722,icecream,6,1.5,?,?
+179,Sarku Japan,42.2453152,-87.9497765,japanese,9,3.0,$,['delivery']
+180,Ruprecht ,42.2542,-87.98182,butcher,22,2.0,$$,[]
+181,Jewel-Osco,42.2437084,-87.9930378,grocery,27,2.0,$$,[]
+182,Yogen Fruz,42.2033013209631,-87.9341034579704,icecream,14,3.5,$,[]
+183,Sam's Club,42.23154667,-87.93865833,wholesale_stores,35,2.5,$$,[]
+184,Subway,42.1968884,-87.965173087694,sandwiches,9,3.0,$,"['delivery', 'pickup']"
+185,Burger King,42.241797,-87.994682,burgers,10,2.0,$,['delivery']
+186,Panda Express,42.255783,-87.948262,chinese,26,2.0,$,"['delivery', 'pickup']"
+187,Charleys Cheesesteaks,42.243416,-87.949817,sandwiches,10,3.0,?,?
+188,CVS Pharmacy,42.2373,-87.9949,drugstores,7,2.0,?,?
+189,Einstein Brothers Bagels,42.203624,-87.932151,bagels,52,3.0,$,"['pickup', 'delivery']"
+190,Dunkin',42.23668,-87.9934,coffee,1,2.0,?,?
+191,Cinnabon,42.2408779,-87.9530145,desserts,4,3.0,$$,[]
+192,Starbucks,42.240031,-87.971435,coffee,38,2.5,$$,['delivery']
+193,El Barrio Restaurant & Lounge,42.2470321655273,-88.0036468505859,mexican,47,3.5,$$,['delivery']
+194,Supermercado Vargas,42.2514512389898,-87.9965373873711,grocery,1,3.0,$$,[]
+195,Jimmy John's,42.2532029,-88.0008735,sandwiches,17,3.0,$,[]
+196,Starbucks,42.239182,-87.95664,coffee,7,3.5,$$,['delivery']
+197,Circle K,42.2359717,-87.994563,servicestations,4,3.0,?,?
+198,Baskin Robbins,42.242641,-87.949895,icecream,1,1.0,$,[]
+199,Dairy Queen,42.252569,-87.999529,icecream,8,4.0,$$,[]
+200,Walgreens,42.2018172,-87.9324702,drugstores,16,3.0,$,[]
+201,Los Magueyes Mexican Grill,42.253305,-88.001692,mexican,7,3.5,$$,[]
+202,Starbucks,42.20319,-87.935169,coffee,38,3.5,$$,['delivery']
+203,Gloria Jean's Coffees,42.24531,-87.94977,coffee,15,3.0,$$,"['delivery', 'pickup']"
+204,McDonald's,42.2433348,-87.9494949,hotdogs,8,2.0,$,['delivery']
+205,Dunkin',42.23772,-87.944902,donuts,46,1.5,$,[]
+206,Auntie Anne's Pretzels,42.2428973392615,-87.9511278668212,pretzels,3,1.5,?,?
+207,Walgreens,42.2593574,-87.9475533,drugstores,15,2.5,$,[]
+208,Ernie's Food Mart & Carwash,42.20903,-87.93271,convenience,3,3.0,$,[]
+209,Dunkin',42.253135,-88.020093,donuts,15,2.0,$,['delivery']
+210,Edible Arrangements,42.242471,-87.978498,giftshops,3,1.5,?,?
+211,Omega Pancake House,42.2491039,-87.9939809,diners,17,2.5,$$,[]
+212,Jani's Newstand,42.24316,-87.9541151,convenience,3,1.5,?,?
+213,ALDI,42.2524576,-88.0197474,grocery,8,3.5,$,[]
+214,Starbucks,42.255691,-87.948152,coffee,25,2.0,$,['delivery']
+215,Baskin-Robbins,42.253096,-88.020134,icecream,6,1.0,?,?
+216,Dunkin',42.197669,-88.019592,donuts,9,2.5,$,['delivery']
