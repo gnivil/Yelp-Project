@@ -79,5 +79,4 @@ We also acknowledge that not all food establishments are represented on Yelp. Th
 
 ## Implications: 
 Based on Census demographic and income data, as well as Yelp business and consumer data, we conclude that Vernon Hills, IL can be home for a successful high-end steakhouse restaurant. With more time and resources, our data analysis can be expanded to create a superior report to garner investor interest. 
-
 -----
